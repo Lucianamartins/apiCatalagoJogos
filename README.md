@@ -2,7 +2,7 @@
 
 Catalago Jogos é uma API em ASP.NET CORE onde é possível  cadastrar, editar, excluir e listar jogos.
   
-![Swagger](/assts/imgs/TelaSwagger.png)
+![Swagger](/assets/imgs/TelaSwagger.png)
 ##### Tela API/Swagger
 
 ## Tecnologias e conceitos 
